@@ -10,9 +10,9 @@ This project demonstrates how to modify a `div` element using JavaScript and DOM
 - Modifies width and height
 
 ## Hosted Version
-[Live Demo](YOUR_HOSTED_LINK_HERE)
+[Live Demo](https://aryan090204.github.io/DOM-Project/)
 
 ## How to Run
 1. Clone the repository:
-git clone 
+git clone https://aryan090204.github.io/DOM-Project/
 2. Open `index.html` in a browser.
