@@ -14,5 +14,5 @@ This project demonstrates how to modify a `div` element using JavaScript and DOM
 
 ## How to Run
 1. Clone the repository:
-git clone https://aryan090204.github.io/DOM-Project/
+git clone (https://github.com/Aryan090204/DOM-Project.git)
 2. Open `index.html` in a browser.
