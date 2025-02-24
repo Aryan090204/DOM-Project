@@ -1,5 +1,6 @@
 let myDiv = document.getElementById("myDiv");
 
+myDiv.style.color="blue";
 myDiv.style.backgroundColor = "yellow";  
 myDiv.style.margin = "20px";            
 myDiv.style.padding = "10px";           
